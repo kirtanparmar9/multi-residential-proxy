@@ -137,8 +137,6 @@ class Init {
     var state = param[2];
     var city = param[3];
 
-    console.log("country_code: ", country_code)
-
     host = country_code.iso + host;
     username = `${username}+${country_code.iso.toUpperCase()}`;
 

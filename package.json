@@ -1,6 +1,6 @@
 {
   "name": "multi-residential-proxy",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Multiple residential proxy providers wrapper, Residential proxy access with sticky session",
   "main": "index.js",
   "scripts": {
