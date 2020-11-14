@@ -1,0 +1,28 @@
+{
+  "name": "multi-residential-proxy",
+  "version": "1.0.0",
+  "description": "Multiple residential proxy providers wrapper, Residential proxy access with sticky session",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kirtanparmar9/multi-residential-proxy.git"
+  },
+  "keywords": [
+    "residential",
+    "proxy",
+    "sticky",
+    "session",
+    "geo-surf",
+    "oxylab",
+    "packetstream"
+  ],
+  "author": "Kirtan Parmar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kirtanparmar9/multi-residential-proxy/issues"
+  },
+  "homepage": "https://github.com/kirtanparmar9/multi-residential-proxy#readme"
+}

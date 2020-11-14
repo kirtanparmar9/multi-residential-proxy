@@ -1,0 +1,806 @@
+[
+  {
+    "iso": "ae",
+    "name": "United Arab Emirates",
+    "internal_code": 10,
+    "region": "Middle east"
+  },
+  {
+    "iso": "af",
+    "name": "Afghanistan",
+    "internal_code": 7,
+    "region": "Asia & Pacific"
+  },
+  {
+    "iso": "al",
+    "name": "Albania",
+    "internal_code": 4,
+    "region": "Europe"
+  },
+  {
+    "iso": "am",
+    "name": "Armenia",
+    "internal_code": 3,
+    "region": "Europe"
+  },
+  {
+    "iso": "ao",
+    "name": "Angola",
+    "internal_code": 2,
+    "region": "Africa"
+  },
+  {
+    "iso": "ar",
+    "name": "Argentina",
+    "internal_code": 24,
+    "region": "South/Latin America"
+  },
+  {
+    "iso": "at",
+    "name": "Austria",
+    "internal_code": 12,
+    "region": "Europe"
+  },
+  {
+    "iso": "au",
+    "name": "Australia",
+    "internal_code": 4,
+    "region": "Asia & Pacific"
+  },
+  {
+    "iso": "az",
+    "name": "Azerbaijan",
+    "internal_code": 3,
+    "region": "Asia & Pacific"
+  },
+  {
+    "iso": "ba",
+    "name": "Bosnia and Herzegovina",
+    "internal_code": 5,
+    "region": "Europe"
+  },
+  {
+    "iso": "bb",
+    "name": "Barbados",
+    "internal_code": 2,
+    "region": "South/Latin America"
+  },
+  {
+    "iso": "bd",
+    "name": "Bangladesh",
+    "internal_code": 20,
+    "region": "Asia & Pacific"
+  },
+  {
+    "iso": "be",
+    "name": "Belgium",
+    "internal_code": 40,
+    "region": "Europe"
+  },
+  {
+    "iso": "bg",
+    "name": "Bulgaria",
+    "internal_code": 16,
+    "region": "Europe"
+  },
+  {
+    "iso": "bh",
+    "name": "Bahrain",
+    "internal_code": 1,
+    "region": "Arab States"
+  },
+  {
+    "iso": "bi",
+    "name": "Burundi",
+    "internal_code": 2,
+    "region": "Africa"
+  },
+  {
+    "iso": "bj",
+    "name": "Benin",
+    "internal_code": 7,
+    "region": "Africa"
+  },
+  {
+    "iso": "bn",
+    "name": "Brunei Darussalam",
+    "internal_code": 1,
+    "region": "Asia & Pacific"
+  },
+  {
+    "iso": "bo",
+    "name": "Bolivia",
+    "internal_code": 3,
+    "region": "South/Latin America"
+  },
+  {
+    "iso": "br",
+    "name": "Brazil",
+    "internal_code": 95,
+    "region": "South/Latin America"
+  },
+  {
+    "iso": "bw",
+    "name": "Botswana",
+    "internal_code": 1,
+    "region": "Africa"
+  },
+  {
+    "iso": "by",
+    "name": "Belarus",
+    "internal_code": 14,
+    "region": "Europe"
+  },
+  {
+    "iso": "ca",
+    "name": "Canada",
+    "internal_code": 12,
+    "region": "North America"
+  },
+  {
+    "iso": "cd",
+    "name": "Congo",
+    "internal_code": 1,
+    "region": "Africa"
+  },
+  {
+    "iso": "ch",
+    "name": "Switzerland",
+    "internal_code": 6,
+    "region": "Europe"
+  },
+  {
+    "iso": "ci",
+    "name": "Côte D'Ivoire",
+    "internal_code": 16,
+    "region": "Africa"
+  },
+  {
+    "iso": "cl",
+    "name": "Chile",
+    "internal_code": 5,
+    "region": "South/Latin America"
+  },
+  {
+    "iso": "cm",
+    "name": "Cameroon",
+    "internal_code": 9,
+    "region": "Africa"
+  },
+  {
+    "iso": "cn",
+    "name": "China",
+    "internal_code": 2,
+    "region": "Asia & Pacific"
+  },
+  {
+    "iso": "co",
+    "name": "Colombia",
+    "internal_code": 35,
+    "region": "South/Latin America"
+  },
+  {
+    "iso": "cr",
+    "name": "Costa Rica",
+    "internal_code": 1,
+    "region": "South/Latin America"
+  },
+  {
+    "iso": "cy",
+    "name": "Cyprus",
+    "internal_code": 1,
+    "region": "Europe"
+  },
+  {
+    "iso": "cz",
+    "name": "Czech Republic",
+    "internal_code": 6,
+    "region": "Europe"
+  },
+  {
+    "iso": "de",
+    "name": "Germany",
+    "internal_code": 50,
+    "region": "Europe"
+  },
+  {
+    "iso": "dk",
+    "name": "Denmark",
+    "internal_code": 3,
+    "region": "Europe"
+  },
+  {
+    "iso": "do",
+    "name": "Dominican Republic",
+    "internal_code": 7,
+    "region": "South/Latin America"
+  },
+  {
+    "iso": "dz",
+    "name": "Algeria",
+    "internal_code": 73,
+    "region": "Arab States"
+  },
+  {
+    "iso": "ec",
+    "name": "Ecuador",
+    "internal_code": 7,
+    "region": "South/Latin America"
+  },
+  {
+    "iso": "eg",
+    "name": "Egypt",
+    "internal_code": 34,
+    "region": "Middle east"
+  },
+  {
+    "iso": "es",
+    "name": "Spain",
+    "internal_code": 28,
+    "region": "Europe"
+  },
+  {
+    "iso": "et",
+    "name": "Ethiopia",
+    "internal_code": 1,
+    "region": "Africa"
+  },
+  {
+    "iso": "fr",
+    "name": "France",
+    "internal_code": 85,
+    "region": "Europe"
+  },
+  {
+    "iso": "ga",
+    "name": "Gabon",
+    "internal_code": 2,
+    "region": "Africa"
+  },
+  {
+    "iso": "gb",
+    "name": "United Kingdom",
+    "internal_code": 42,
+    "region": "Europe"
+  },
+  {
+    "iso": "ge",
+    "name": "Georgia",
+    "internal_code": 2,
+    "region": "Europe"
+  },
+  {
+    "iso": "gh",
+    "name": "Ghana",
+    "internal_code": 26,
+    "region": "Africa"
+  },
+  {
+    "iso": "gp",
+    "name": "Guadeloupe",
+    "internal_code": 2,
+    "region": "South/Latin America"
+  },
+  {
+    "iso": "gr",
+    "name": "Greece",
+    "internal_code": 8,
+    "region": "Europe"
+  },
+  {
+    "iso": "gt",
+    "name": "Guatemala",
+    "internal_code": 2,
+    "region": "South/Latin America"
+  },
+  {
+    "iso": "hk",
+    "name": "Hong Kong",
+    "internal_code": 1,
+    "region": "Asia & Pacific"
+  },
+  {
+    "iso": "hn",
+    "name": "Honduras",
+    "internal_code": 1,
+    "region": "South/Latin America"
+  },
+  {
+    "iso": "hr",
+    "name": "Croatia",
+    "internal_code": 17,
+    "region": "Europe"
+  },
+  {
+    "iso": "ht",
+    "name": "Haiti",
+    "internal_code": 1,
+    "region": "South/Latin America"
+  },
+  {
+    "iso": "hu",
+    "name": "Hungary",
+    "internal_code": 21,
+    "region": "Europe"
+  },
+  {
+    "iso": "id",
+    "name": "Indonesia",
+    "internal_code": 45,
+    "region": "Asia & Pacific"
+  },
+  {
+    "iso": "ie",
+    "name": "Ireland",
+    "internal_code": 14,
+    "region": "Europe"
+  },
+  {
+    "iso": "il",
+    "name": "Israel",
+    "internal_code": 15,
+    "region": "Europe"
+  },
+  {
+    "iso": "in",
+    "name": "India",
+    "internal_code": 63,
+    "region": "Asia & Pacific"
+  },
+  {
+    "iso": "iq",
+    "name": "Iraq",
+    "internal_code": 5,
+    "region": "Middle east"
+  },
+  {
+    "iso": "ir",
+    "name": "Iran, Islamic Republic of",
+    "internal_code": 104,
+    "region": "Middle east"
+  },
+  {
+    "iso": "it",
+    "name": "Italy",
+    "internal_code": 97,
+    "region": "Europe"
+  },
+  {
+    "iso": "jm",
+    "name": "Jamaica",
+    "internal_code": 1,
+    "region": "South/Latin America"
+  },
+  {
+    "iso": "jo",
+    "name": "Jordan",
+    "internal_code": 2,
+    "region": "Middle east"
+  },
+  {
+    "iso": "jp",
+    "name": "Japan",
+    "internal_code": 3,
+    "region": "Asia & Pacific"
+  },
+  {
+    "iso": "ke",
+    "name": "Kenya",
+    "internal_code": 15,
+    "region": "Africa"
+  },
+  {
+    "iso": "kg",
+    "name": "Kyrgyzstan",
+    "internal_code": 9,
+    "region": "Asia & Pacific"
+  },
+  {
+    "iso": "kr",
+    "name": "Korea, Republic of",
+    "internal_code": 3,
+    "region": "Asia & Pacific"
+  },
+  {
+    "iso": "kw",
+    "name": "Kuwait",
+    "internal_code": 22,
+    "region": "Middle east"
+  },
+  {
+    "iso": "kz",
+    "name": "Kazakhstan",
+    "internal_code": 12,
+    "region": "Asia & Pacific"
+  },
+  {
+    "iso": "lc",
+    "name": "Saint Lucia",
+    "internal_code": 1,
+    "region": "South/Latin America"
+  },
+  {
+    "iso": "lk",
+    "name": "Sri Lanka",
+    "internal_code": 15,
+    "region": "Asia & Pacific"
+  },
+  {
+    "iso": "lt",
+    "name": "Lithuania",
+    "internal_code": 3,
+    "region": "Europe"
+  },
+  {
+    "iso": "ly",
+    "name": "Libya",
+    "internal_code": 38,
+    "region": "Middle east"
+  },
+  {
+    "iso": "ma",
+    "name": "Morocco",
+    "internal_code": 43,
+    "region": "Arab States"
+  },
+  {
+    "iso": "md",
+    "name": "Moldova, Republic of",
+    "internal_code": 6,
+    "region": "Europe"
+  },
+  {
+    "iso": "mg",
+    "name": "Madagascar",
+    "internal_code": 16,
+    "region": "Africa"
+  },
+  {
+    "iso": "mk",
+    "name": "Macedonia",
+    "internal_code": 3,
+    "region": "Europe"
+  },
+  {
+    "iso": "ml",
+    "name": "Mali",
+    "internal_code": 1,
+    "region": "Africa"
+  },
+  {
+    "iso": "mm",
+    "name": "Myanmar",
+    "internal_code": 1,
+    "region": "Asia & Pacific"
+  },
+  {
+    "iso": "mn",
+    "name": "Mongolia",
+    "internal_code": 1,
+    "region": "Asia & Pacific"
+  },
+  {
+    "iso": "mo",
+    "name": "Macau",
+    "internal_code": 1,
+    "region": "Asia & Pacific"
+  },
+  {
+    "iso": "mq",
+    "name": "Martinique",
+    "internal_code": 1,
+    "region": "South/Latin America"
+  },
+  {
+    "iso": "mt",
+    "name": "Malta",
+    "internal_code": 2,
+    "region": "Europe"
+  },
+  {
+    "iso": "mu",
+    "name": "Mauritius",
+    "internal_code": 3,
+    "region": "Africa"
+  },
+  {
+    "iso": "mx",
+    "name": "Mexico",
+    "internal_code": 28,
+    "region": "South/Latin America"
+  },
+  {
+    "iso": "my",
+    "name": "Malaysia",
+    "internal_code": 8,
+    "region": "Asia & Pacific"
+  },
+  {
+    "iso": "mz",
+    "name": "Mozambique",
+    "internal_code": 10,
+    "region": "Africa"
+  },
+  {
+    "iso": "na",
+    "name": "Namibia",
+    "internal_code": 10,
+    "region": "Africa"
+  },
+  {
+    "iso": "ng",
+    "name": "Nigeria",
+    "internal_code": 79,
+    "region": "Africa"
+  },
+  {
+    "iso": "ni",
+    "name": "Nicaragua",
+    "internal_code": 1,
+    "region": "South/Latin America"
+  },
+  {
+    "iso": "nl",
+    "name": "Netherlands",
+    "internal_code": 21,
+    "region": "Europe"
+  },
+  {
+    "iso": "no",
+    "name": "Norway",
+    "internal_code": 2,
+    "region": "Europe"
+  },
+  {
+    "iso": "np",
+    "name": "Nepal",
+    "internal_code": 7,
+    "region": "Asia & Pacific"
+  },
+  {
+    "iso": "nz",
+    "name": "New Zealand",
+    "internal_code": 3,
+    "region": "Asia & Pacific"
+  },
+  {
+    "iso": "om",
+    "name": "Oman",
+    "internal_code": 3,
+    "region": "Middle east"
+  },
+  {
+    "iso": "pe",
+    "name": "Peru",
+    "internal_code": 13,
+    "region": "South/Latin America"
+  },
+  {
+    "iso": "ph",
+    "name": "Philippines",
+    "internal_code": 23,
+    "region": "Asia & Pacific"
+  },
+  {
+    "iso": "pk",
+    "name": "Pakistan",
+    "internal_code": 43,
+    "region": "Asia & Pacific"
+  },
+  {
+    "iso": "pl",
+    "name": "Poland",
+    "internal_code": 30,
+    "region": "Europe"
+  },
+  {
+    "iso": "ps",
+    "name": "Palestinian Territory",
+    "internal_code": 12,
+    "region": "Arab States"
+  },
+  {
+    "iso": "pt",
+    "name": "Portugal",
+    "internal_code": 4,
+    "region": "Europe"
+  },
+  {
+    "iso": "py",
+    "name": "Paraguay",
+    "internal_code": 1,
+    "region": "South/Latin America"
+  },
+  {
+    "iso": "re",
+    "name": "Reunion",
+    "internal_code": 1,
+    "region": "Asia & Pacific"
+  },
+  {
+    "iso": "ro",
+    "name": "Romania",
+    "internal_code": 20,
+    "region": "Europe"
+  },
+  {
+    "iso": "rs",
+    "name": "Serbia",
+    "internal_code": 9,
+    "region": "Europe"
+  },
+  {
+    "iso": "ru",
+    "name": "Russian Federation",
+    "internal_code": 138,
+    "region": "Europe"
+  },
+  {
+    "iso": "sa",
+    "name": "Saudi Arabia",
+    "internal_code": 15,
+    "region": "Middle east"
+  },
+  {
+    "iso": "sd",
+    "name": "Sudan",
+    "internal_code": 1,
+    "region": "Arab States"
+  },
+  {
+    "iso": "se",
+    "name": "Sweden",
+    "internal_code": 13,
+    "region": "Europe"
+  },
+  {
+    "iso": "sg",
+    "name": "Singapore",
+    "internal_code": 2,
+    "region": "Asia & Pacific"
+  },
+  {
+    "iso": "si",
+    "name": "Slovenia",
+    "internal_code": 3,
+    "region": "Europe"
+  },
+  {
+    "iso": "sk",
+    "name": "Slovakia",
+    "internal_code": 8,
+    "region": "Europe"
+  },
+  {
+    "iso": "sn",
+    "name": "Senegal",
+    "internal_code": 2,
+    "region": "Africa"
+  },
+  {
+    "iso": "so",
+    "name": "Somalia",
+    "internal_code": 5,
+    "region": "Arab States"
+  },
+  {
+    "iso": "sr",
+    "name": "Suriname",
+    "internal_code": 1,
+    "region": "South/Latin America"
+  },
+  {
+    "iso": "sv",
+    "name": "El Salvador",
+    "internal_code": 7,
+    "region": "South/Latin America"
+  },
+  {
+    "iso": "sy",
+    "name": "Syrian Arab Republic",
+    "internal_code": 1,
+    "region": "Asia & Pacific"
+  },
+  {
+    "iso": "tg",
+    "name": "Togo",
+    "internal_code": 8,
+    "region": "Africa"
+  },
+  {
+    "iso": "th",
+    "name": "Thailand",
+    "internal_code": 13,
+    "region": "Asia & Pacific"
+  },
+  {
+    "iso": "tn",
+    "name": "Tunisia",
+    "internal_code": 10,
+    "region": "Arab States"
+  },
+  {
+    "iso": "tr",
+    "name": "Turkey",
+    "internal_code": 80,
+    "region": "Europe"
+  },
+  {
+    "iso": "tt",
+    "name": "Trinidad and Tobago",
+    "internal_code": 2,
+    "region": "South/Latin America"
+  },
+  {
+    "iso": "tw",
+    "name": "China",
+    "internal_code": 5,
+    "region": "Asia & Pacific"
+  },
+  {
+    "iso": "tz",
+    "name": "Tanzania, United Republic of",
+    "internal_code": 1,
+    "region": "Africa"
+  },
+  {
+    "iso": "ua",
+    "name": "Ukraine",
+    "internal_code": 55,
+    "region": "Europe"
+  },
+  {
+    "iso": "us",
+    "name": "United States",
+    "internal_code": 59,
+    "region": "North America"
+  },
+  {
+    "iso": "uy",
+    "name": "Uruguay",
+    "internal_code": 1,
+    "region": "South/Latin America"
+  },
+  {
+    "iso": "uz",
+    "name": "Uzbekistan",
+    "internal_code": 4,
+    "region": "Asia & Pacific"
+  },
+  {
+    "iso": "ve",
+    "name": "Venezuela",
+    "internal_code": 65,
+    "region": "South/Latin America"
+  },
+  {
+    "iso": "vn",
+    "name": "Vietnam",
+    "internal_code": 23,
+    "region": "Asia & Pacific"
+  },
+  {
+    "iso": "ye",
+    "name": "Yemen",
+    "internal_code": 2,
+    "region": "Middle east"
+  },
+  {
+    "iso": "za",
+    "name": "South Africa",
+    "internal_code": 54,
+    "region": "Africa"
+  },
+  {
+    "iso": "zm",
+    "name": "Zambia",
+    "internal_code": 9,
+    "region": "Africa"
+  },
+  {
+    "iso": "zw",
+    "name": "Zimbabwe",
+    "internal_code": 3,
+    "region": "Africa"
+  }
+]
